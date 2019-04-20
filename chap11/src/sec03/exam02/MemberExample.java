@@ -1,0 +1,30 @@
+package sec03.exam02;
+
+import java.util.HashMap;
+
+public class MemberExample {
+  public static void main(String[] args) {
+    Member obj1 = new Member("blue");
+    Member obj2 = new Member("blue");
+    Member obj3 = new Member("red");
+
+    if (obj1.equals(obj2)) {
+      System.out.println("obj1과 obj2는 동등합니다.");
+    } else {
+      System.out.println("obj1과 obj2는 동등하지 않습니다.");
+    }
+
+    if (obj1.equals(obj3)) {
+      System.out.println("obj1과 obj3은 동등합니다.");
+    } else {
+      System.out.println("obj1과 obj3은 동등하지 않습니다.");
+    }
+
+    HashMap<Member, String> hashMap = new HashMap<Member, String>();
+    hashMap.put(obj1, "blue member");
+    String valueFromObj2 = hashMap.get(obj2);
+    String valueFromObj3 = hashMap.get(obj3);
+    System.out.println(valueFromObj2);
+    System.out.println(valueFromObj3);
+  }
+}
