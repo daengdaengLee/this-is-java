@@ -19,25 +19,45 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chap12/src/sec06/exam03/SumThread.java">
+        <entry file="file://$PROJECT_DIR$/chap12/src/sec06/exam04/DataBox.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-              <folding>
-                <element signature="e#110#111#0" expanded="true" />
-                <element signature="e#130#131#0" expanded="true" />
-                <element signature="e#164#165#0" expanded="true" />
-                <element signature="e#188#189#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="420">
+              <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chap12/src/sec06/exam03/JoinExample.java">
+        <entry file="file://$PROJECT_DIR$/chap12/src/sec06/exam04/ProducerThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+              <folding>
+                <element signature="e#139#140#0" expanded="true" />
+                <element signature="e#162#163#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chap12/src/sec06/exam04/ConsumerThread.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+              <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+              <folding>
+                <element signature="e#139#140#0" expanded="true" />
+                <element signature="e#170#171#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chap12/src/sec06/exam04/ProduceConsumeExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -63,6 +83,14 @@
         <option value="$PROJECT_DIR$/chap12/src/sec06/exam02/ThreadB.java" />
         <option value="$PROJECT_DIR$/chap12/src/sec06/exam03/SumThread.java" />
         <option value="$PROJECT_DIR$/chap12/src/sec06/exam03/JoinExample.java" />
+        <option value="$PROJECT_DIR$/chap12/src/sec06/exam04/WorkObject.java" />
+        <option value="$PROJECT_DIR$/chap12/src/sec06/exam04/ThreadA.java" />
+        <option value="$PROJECT_DIR$/chap12/src/sec06/exam04/ThreadB.java" />
+        <option value="$PROJECT_DIR$/chap12/src/sec06/exam04/WaitNotifyExample.java" />
+        <option value="$PROJECT_DIR$/chap12/src/sec06/exam04/DataBox.java" />
+        <option value="$PROJECT_DIR$/chap12/src/sec06/exam04/ConsumerThread.java" />
+        <option value="$PROJECT_DIR$/chap12/src/sec06/exam04/ProduceConsumeExample.java" />
+        <option value="$PROJECT_DIR$/chap12/src/sec06/exam04/ProducerThread.java" />
       </list>
     </option>
   </component>
@@ -109,7 +137,7 @@
               <item name="chap12" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="sec06" type="462c0819:PsiDirectoryNode" />
-              <item name="exam03" type="462c0819:PsiDirectoryNode" />
+              <item name="exam04" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -138,7 +166,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JoinExample">
+  <component name="RunManager" selected="Application.ProduceConsumeExample">
     <configuration name="JoinExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sec06.exam03.JoinExample" />
       <module name="chap12" />
@@ -152,12 +180,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ProduceConsumeExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sec06.exam04.ProduceConsumeExample" />
+      <module name="chap12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sec06.exam04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SleepExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sec06.exam01.SleepExample" />
       <module name="chap12" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="sec06.exam01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WaitNotifyExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sec06.exam04.WaitNotifyExample" />
+      <module name="chap12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sec06.exam04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,6 +234,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProduceConsumeExample" />
+        <item itemvalue="Application.WaitNotifyExample" />
         <item itemvalue="Application.JoinExample" />
         <item itemvalue="Application.YieldExample" />
         <item itemvalue="Application.SleepExample" />
@@ -322,6 +378,78 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap12/src/sec06/exam04/WaitNotifyExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap12/src/sec06/exam04/ThreadA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+          <folding>
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#174#175#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap12/src/sec06/exam04/ThreadB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <folding>
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#175#176#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap12/src/sec06/exam04/WorkObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap12/src/sec06/exam04/DataBox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap12/src/sec06/exam04/ConsumerThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+          <folding>
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#170#171#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap12/src/sec06/exam04/ProduceConsumeExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap12/src/sec06/exam04/ProducerThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+          <folding>
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#162#163#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
