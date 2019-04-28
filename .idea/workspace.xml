@@ -113,11 +113,11 @@
   </component>
   <component name="RunManager">
     <configuration name="SleepExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sec06.SleepExample" />
+      <option name="MAIN_CLASS_NAME" value="sec06.exam01.SleepExample" />
       <module name="chap12" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sec06.*" />
+          <option name="PATTERN" value="sec06.exam01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
