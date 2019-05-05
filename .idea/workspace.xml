@@ -17,29 +17,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chap12/src/exercise/no08/ThreadExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chap12/src/exercise/no02/ThreadExample.java">
+        <entry file="file://$PROJECT_DIR$/chap12/src/exercise/no08/MovieThread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chap12/src/exercise/no02/MovieThread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chap12/src/exercise/no02/MusicThread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+            <state relative-caret-position="105">
+              <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -92,6 +83,8 @@
         <option value="$PROJECT_DIR$/chap12/src/exercise/no02/MovieThread.java" />
         <option value="$PROJECT_DIR$/chap12/src/exercise/no02/MusicThread.java" />
         <option value="$PROJECT_DIR$/chap12/src/exercise/no02/ThreadExample.java" />
+        <option value="$PROJECT_DIR$/chap12/src/exercise/no08/ThreadExample.java" />
+        <option value="$PROJECT_DIR$/chap12/src/exercise/no08/MovieThread.java" />
       </list>
     </option>
   </component>
@@ -133,7 +126,14 @@
               <item name="this-is-java" type="b2602c69:ProjectViewProjectNode" />
               <item name="chap12" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="no02" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="this-is-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chap12" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="no08" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -161,7 +161,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ThreadExample">
+  <component name="RunManager" selected="Application.ThreadExample (1)">
     <configuration name="CallbackExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sec09.exam04.CallbackExample" />
       <module name="chap12" />
@@ -188,8 +188,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ResultByCallableExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sec09.exam03.ResultByCallableExample" />
+    <configuration name="ResultByRunnableExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sec09.exam03.ResultByRunnableExample" />
       <module name="chap12" />
       <extension name="coverage">
         <pattern>
@@ -201,12 +201,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ResultByRunnableExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sec09.exam03.ResultByRunnableExample" />
+    <configuration name="ThreadExample (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise.no08.ThreadExample" />
       <module name="chap12" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sec09.exam03.*" />
+          <option name="PATTERN" value="exercise.no08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -229,11 +229,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThreadExample (1)" />
         <item itemvalue="Application.ThreadExample" />
         <item itemvalue="Application.CallbackExample" />
         <item itemvalue="Application.CompletionServiceExample" />
         <item itemvalue="Application.ResultByRunnableExample" />
-        <item itemvalue="Application.ResultByCallableExample" />
       </list>
     </recent_temporary>
   </component>
@@ -652,6 +652,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap12/src/exercise/no08/ThreadExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap12/src/exercise/no08/MovieThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
         </state>
       </provider>
     </entry>
