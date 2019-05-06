@@ -18,19 +18,79 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chap13/src/sec05/Util.java">
+        <entry file="file://$PROJECT_DIR$/chap13/src/sec06/Course.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+            <state relative-caret-position="345">
+              <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+              <folding>
+                <element signature="e#235#236#0" expanded="true" />
+                <element signature="e#256#257#0" expanded="true" />
+                <element signature="e#286#287#0" expanded="true" />
+                <element signature="e#311#312#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chap13/src/sec06/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+              <folding>
+                <element signature="e#92#93#0" expanded="true" />
+                <element signature="e#117#118#0" expanded="true" />
+                <element signature="e#158#159#0" expanded="true" />
+                <element signature="e#179#180#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chap13/src/sec06/Worker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+              <folding>
+                <element signature="e#82#83#0" expanded="true" />
+                <element signature="e#96#97#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chap13/src/sec06/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+              <folding>
+                <element signature="e#84#85#0" expanded="true" />
+                <element signature="e#100#101#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chap13/src/sec06/HighStudent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+              <folding>
+                <element signature="e#93#94#0" expanded="true" />
+                <element signature="e#106#107#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chap13/src/sec05/BoundedTypeParameterExample.java">
+        <entry file="file://$PROJECT_DIR$/chap13/src/sec06/WildCardExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+            <state relative-caret-position="524">
+              <caret line="54" column="43" selection-start-line="53" selection-start-column="2" selection-end-line="54" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -50,11 +110,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/chap12/src/sec06/SleepExample.java" />
-        <option value="$PROJECT_DIR$/chap12/src/sec06/exam02/ThreadA.java" />
-        <option value="$PROJECT_DIR$/chap12/src/sec06/exam02/YieldExample.java" />
-        <option value="$PROJECT_DIR$/chap12/src/sec06/exam02/ThreadB.java" />
-        <option value="$PROJECT_DIR$/chap12/src/sec06/exam03/SumThread.java" />
         <option value="$PROJECT_DIR$/chap12/src/sec06/exam03/JoinExample.java" />
         <option value="$PROJECT_DIR$/chap12/src/sec06/exam04/WorkObject.java" />
         <option value="$PROJECT_DIR$/chap12/src/sec06/exam04/ThreadA.java" />
@@ -100,6 +155,12 @@
         <option value="$PROJECT_DIR$/chap13/src/sec04/exam02/CompareMethodExample.java" />
         <option value="$PROJECT_DIR$/chap13/src/sec05/Util.java" />
         <option value="$PROJECT_DIR$/chap13/src/sec05/BoundedTypeParameterExample.java" />
+        <option value="$PROJECT_DIR$/chap13/src/sec06/Course.java" />
+        <option value="$PROJECT_DIR$/chap13/src/sec06/Person.java" />
+        <option value="$PROJECT_DIR$/chap13/src/sec06/Worker.java" />
+        <option value="$PROJECT_DIR$/chap13/src/sec06/Student.java" />
+        <option value="$PROJECT_DIR$/chap13/src/sec06/HighStudent.java" />
+        <option value="$PROJECT_DIR$/chap13/src/sec06/WildCardExample.java" />
       </list>
     </option>
   </component>
@@ -139,7 +200,7 @@
               <item name="this-is-java" type="b2602c69:ProjectViewProjectNode" />
               <item name="chap13" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sec05" type="462c0819:PsiDirectoryNode" />
+              <item name="sec06" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -170,26 +231,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BoundedTypeParameterExample">
+  <component name="RunManager" selected="Application.WildCardExample">
     <configuration name="BoundedTypeParameterExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sec05.BoundedTypeParameterExample" />
       <module name="chap13" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="sec05.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BoxExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sec02.exam01.BoxExample" />
-      <module name="chap13" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sec02.exam01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -236,13 +284,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WildCardExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sec06.WildCardExample" />
+      <module name="chap13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sec06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WildCardExample" />
         <item itemvalue="Application.BoundedTypeParameterExample" />
         <item itemvalue="Application.CompareMethodExample" />
         <item itemvalue="Application.BoxingMethodExample" />
         <item itemvalue="Application.ProductExample" />
-        <item itemvalue="Application.BoxExample" />
       </list>
     </recent_temporary>
   </component>
@@ -341,62 +402,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/chap12/src/sec06/exam03/SumThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-          <folding>
-            <element signature="e#110#111#0" expanded="true" />
-            <element signature="e#130#131#0" expanded="true" />
-            <element signature="e#164#165#0" expanded="true" />
-            <element signature="e#188#189#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chap12/src/sec06/exam03/JoinExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chap12/src/sec06/exam04/WaitNotifyExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chap12/src/sec06/exam04/ThreadA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
-          <folding>
-            <element signature="e#137#138#0" expanded="true" />
-            <element signature="e#174#175#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chap12/src/sec06/exam04/ThreadB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-          <folding>
-            <element signature="e#137#138#0" expanded="true" />
-            <element signature="e#175#176#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chap12/src/sec06/exam04/WorkObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chap12/src/sec06/exam04/DataBox.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -807,6 +812,72 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap13/src/sec06/Course.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+          <folding>
+            <element signature="e#235#236#0" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap13/src/sec06/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+          <folding>
+            <element signature="e#92#93#0" expanded="true" />
+            <element signature="e#117#118#0" expanded="true" />
+            <element signature="e#158#159#0" expanded="true" />
+            <element signature="e#179#180#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap13/src/sec06/Worker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          <folding>
+            <element signature="e#82#83#0" expanded="true" />
+            <element signature="e#96#97#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap13/src/sec06/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          <folding>
+            <element signature="e#84#85#0" expanded="true" />
+            <element signature="e#100#101#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap13/src/sec06/HighStudent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          <folding>
+            <element signature="e#93#94#0" expanded="true" />
+            <element signature="e#106#107#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap13/src/sec06/WildCardExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="54" column="43" selection-start-line="53" selection-start-column="2" selection-end-line="54" selection-end-column="46" />
         </state>
       </provider>
     </entry>
