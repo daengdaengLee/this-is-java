@@ -18,13 +18,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chap14/src/sec05/exam01/ConsumerExample.java">
+        <entry file="file://$PROJECT_DIR$/chap14/src/sec05/exam02/SupplierExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="180">
+              <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -45,7 +42,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/chap12/src/exercise/no08/ThreadExample.java" />
         <option value="$PROJECT_DIR$/chap12/src/exercise/no08/MovieThread.java" />
         <option value="$PROJECT_DIR$/chap12/src/exercise/no10/MovieThread.java" />
         <option value="$PROJECT_DIR$/chap12/src/exercise/no10/ThreadExample.java" />
@@ -96,6 +92,7 @@
         <option value="$PROJECT_DIR$/chap14/src/sec04/exam02/UsingLocalVariableExample.java" />
         <option value="$PROJECT_DIR$/chap14/src/sec05/RunnableExample.java" />
         <option value="$PROJECT_DIR$/chap14/src/sec05/exam01/ConsumerExample.java" />
+        <option value="$PROJECT_DIR$/chap14/src/sec05/exam02/SupplierExample.java" />
       </list>
     </option>
   </component>
@@ -143,7 +140,7 @@
               <item name="chap14" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="sec05" type="462c0819:PsiDirectoryNode" />
-              <item name="exam01" type="462c0819:PsiDirectoryNode" />
+              <item name="exam02" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -173,7 +170,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ConsumerExample">
+  <component name="RunManager" selected="Application.SupplierExample">
     <configuration name="ConsumerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sec05.exam01.ConsumerExample" />
       <module name="chap14" />
@@ -187,12 +184,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyFunctionalInterfaceExample (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sec03.exam04.MyFunctionalInterfaceExample" />
+    <configuration name="RunnableExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sec05.RunnableExample" />
       <module name="chap14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sec03.exam04.*" />
+          <option name="PATTERN" value="sec05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -200,12 +197,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RunnableExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sec05.RunnableExample" />
+    <configuration name="SupplierExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sec05.exam02.SupplierExample" />
       <module name="chap14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sec05.*" />
+          <option name="PATTERN" value="sec05.exam02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -241,11 +238,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SupplierExample" />
         <item itemvalue="Application.ConsumerExample" />
         <item itemvalue="Application.RunnableExample" />
         <item itemvalue="Application.UsingLocalVariableExample" />
         <item itemvalue="Application.UsingThisExample" />
-        <item itemvalue="Application.MyFunctionalInterfaceExample (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -280,9 +277,9 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.5010799" side_tool="true" weight="0.18705036" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49892008" visible="true" weight="0.19977863" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49892008" visible="true" weight="0.19977863" />
       <window_info id="Structure" order="6" sideWeight="0.5010799" side_tool="true" weight="0.18705036" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.32937366" />
+      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.32937366" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="2" weight="0.32937366" />
       <window_info anchor="bottom" id="Version Control" order="3" weight="0.32937366" />
@@ -344,13 +341,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/chap12/src/exercise/no10/MovieThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chap13/src/sec02/exam01/Box.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -822,10 +812,17 @@
     <entry file="file://$PROJECT_DIR$/chap14/src/sec05/exam01/ConsumerExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap14/src/sec05/exam02/SupplierExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
         </state>
       </provider>
     </entry>
