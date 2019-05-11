@@ -18,10 +18,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chap14/src/sec05/exam07/PredicateIsEqualExample.java">
+        <entry file="file://$PROJECT_DIR$/chap14/src/sec05/exam08/OperatorMinByMaxByExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="64" selection-start-line="21" selection-start-column="64" selection-end-line="21" selection-end-column="64" />
+            <state relative-caret-position="210">
+              <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chap14/src/sec05/exam08/Fruit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -42,8 +51,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/chap13/src/sec04/exam02/Util.java" />
-        <option value="$PROJECT_DIR$/chap13/src/sec04/exam02/CompareMethodExample.java" />
         <option value="$PROJECT_DIR$/chap13/src/sec05/Util.java" />
         <option value="$PROJECT_DIR$/chap13/src/sec05/BoundedTypeParameterExample.java" />
         <option value="$PROJECT_DIR$/chap13/src/sec06/Course.java" />
@@ -93,6 +100,8 @@
         <option value="$PROJECT_DIR$/chap14/src/sec05/exam06/FunctionAndThenComposeExample.java" />
         <option value="$PROJECT_DIR$/chap14/src/sec05/exam07/PredicateAndOrNegateExample.java" />
         <option value="$PROJECT_DIR$/chap14/src/sec05/exam07/PredicateIsEqualExample.java" />
+        <option value="$PROJECT_DIR$/chap14/src/sec05/exam08/Fruit.java" />
+        <option value="$PROJECT_DIR$/chap14/src/sec05/exam08/OperatorMinByMaxByExample.java" />
       </list>
     </option>
   </component>
@@ -140,7 +149,7 @@
               <item name="chap14" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="sec05" type="462c0819:PsiDirectoryNode" />
-              <item name="exam07" type="462c0819:PsiDirectoryNode" />
+              <item name="exam08" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -170,7 +179,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PredicateIsEqualExample">
+  <component name="RunManager" selected="Application.OperatorMinByMaxByExample">
     <configuration name="ConsumerAndThenExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sec05.exam06.ConsumerAndThenExample" />
       <module name="chap14" />
@@ -197,12 +206,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PredicateAndOrNegateExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sec05.exam07.PredicateAndOrNegateExample" />
+    <configuration name="OperatorMinByMaxByExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sec05.exam08.OperatorMinByMaxByExample" />
       <module name="chap14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sec05.exam07.*" />
+          <option name="PATTERN" value="sec05.exam08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -210,12 +219,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PredicateExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sec05.exam05.PredicateExample" />
+    <configuration name="PredicateAndOrNegateExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sec05.exam07.PredicateAndOrNegateExample" />
       <module name="chap14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sec05.exam05.*" />
+          <option name="PATTERN" value="sec05.exam07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -238,11 +247,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OperatorMinByMaxByExample" />
         <item itemvalue="Application.PredicateIsEqualExample" />
         <item itemvalue="Application.PredicateAndOrNegateExample" />
         <item itemvalue="Application.FunctionAndThenComposeExample" />
         <item itemvalue="Application.ConsumerAndThenExample" />
-        <item itemvalue="Application.PredicateExample" />
       </list>
     </recent_temporary>
   </component>
@@ -277,15 +286,15 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.5010799" side_tool="true" weight="0.18705036" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49892008" visible="true" weight="0.19977863" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49892008" visible="true" weight="0.19977863" />
       <window_info id="Structure" order="6" sideWeight="0.5010799" side_tool="true" weight="0.18705036" />
-      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32937366" />
+      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.32937366" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="2" weight="0.32937366" />
       <window_info anchor="bottom" id="Version Control" order="3" weight="0.32937366" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.32937366" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.32937366" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.39956802" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -341,25 +350,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/chap13/src/sec04/exam02/Util.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chap13/src/sec04/exam02/CompareMethodExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="e#141#158#0" expanded="true" />
-            <element signature="e#208#225#0" expanded="true" />
-            <element signature="e#263#280#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chap13/src/sec05/Util.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -820,6 +810,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="64" selection-start-line="21" selection-start-column="64" selection-end-line="21" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap14/src/sec05/exam08/Fruit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap14/src/sec05/exam08/OperatorMinByMaxByExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
         </state>
       </provider>
     </entry>
