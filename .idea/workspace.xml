@@ -17,20 +17,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chap14/src/sec05/exam08/OperatorMinByMaxByExample.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chap14/src/sec06/exam01/Calculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+            <state relative-caret-position="120">
+              <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+              <folding>
+                <element signature="e#96#97#0" expanded="true" />
+                <element signature="e#118#119#0" expanded="true" />
+                <element signature="e#165#166#0" expanded="true" />
+                <element signature="e#187#188#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chap14/src/sec05/exam08/Fruit.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chap14/src/sec06/exam01/MethodReferencesExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+            <state relative-caret-position="315">
+              <caret line="21" column="59" selection-start-line="21" selection-start-column="59" selection-end-line="21" selection-end-column="59" />
             </state>
           </provider>
         </entry>
@@ -51,8 +57,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/chap13/src/sec05/Util.java" />
-        <option value="$PROJECT_DIR$/chap13/src/sec05/BoundedTypeParameterExample.java" />
         <option value="$PROJECT_DIR$/chap13/src/sec06/Course.java" />
         <option value="$PROJECT_DIR$/chap13/src/sec06/Person.java" />
         <option value="$PROJECT_DIR$/chap13/src/sec06/Worker.java" />
@@ -102,6 +106,8 @@
         <option value="$PROJECT_DIR$/chap14/src/sec05/exam07/PredicateIsEqualExample.java" />
         <option value="$PROJECT_DIR$/chap14/src/sec05/exam08/Fruit.java" />
         <option value="$PROJECT_DIR$/chap14/src/sec05/exam08/OperatorMinByMaxByExample.java" />
+        <option value="$PROJECT_DIR$/chap14/src/sec06/exam01/Calculator.java" />
+        <option value="$PROJECT_DIR$/chap14/src/sec06/exam01/MethodReferencesExample.java" />
       </list>
     </option>
   </component>
@@ -142,14 +148,7 @@
               <item name="this-is-java" type="b2602c69:ProjectViewProjectNode" />
               <item name="chap14" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sec05" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="this-is-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="chap14" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sec05" type="462c0819:PsiDirectoryNode" />
-              <item name="exam08" type="462c0819:PsiDirectoryNode" />
+              <item name="exam01" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -179,9 +178,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.OperatorMinByMaxByExample">
-    <configuration name="ConsumerAndThenExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sec05.exam06.ConsumerAndThenExample" />
+  <component name="RunManager" selected="Application.MethodReferencesExample">
+    <configuration name="FunctionAndThenComposeExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sec05.exam06.FunctionAndThenComposeExample" />
       <module name="chap14" />
       <extension name="coverage">
         <pattern>
@@ -193,12 +192,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunctionAndThenComposeExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sec05.exam06.FunctionAndThenComposeExample" />
+    <configuration name="MethodReferencesExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sec06.exam01.MethodReferencesExample" />
       <module name="chap14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sec05.exam06.*" />
+          <option name="PATTERN" value="sec06.exam01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -247,11 +246,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MethodReferencesExample" />
         <item itemvalue="Application.OperatorMinByMaxByExample" />
         <item itemvalue="Application.PredicateIsEqualExample" />
         <item itemvalue="Application.PredicateAndOrNegateExample" />
         <item itemvalue="Application.FunctionAndThenComposeExample" />
-        <item itemvalue="Application.ConsumerAndThenExample" />
       </list>
     </recent_temporary>
   </component>
@@ -350,20 +349,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/chap13/src/sec05/Util.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chap13/src/sec05/BoundedTypeParameterExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chap13/src/sec06/Course.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -824,6 +809,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap14/src/sec06/exam01/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding>
+            <element signature="e#96#97#0" expanded="true" />
+            <element signature="e#118#119#0" expanded="true" />
+            <element signature="e#165#166#0" expanded="true" />
+            <element signature="e#187#188#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap14/src/sec06/exam01/MethodReferencesExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="59" selection-start-line="21" selection-start-column="59" selection-end-line="21" selection-end-column="59" />
         </state>
       </provider>
     </entry>
