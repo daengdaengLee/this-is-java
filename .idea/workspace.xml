@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0da28dbe-0547-40b5-a0f0-bcbc0c472327" name="Default Changelist" comment="" />
+    <list default="true" id="0da28dbe-0547-40b5-a0f0-bcbc0c472327" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,28 +20,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chap14/src/exercise/no06/LambdaExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="379">
-              <caret line="27" column="46" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="46" />
-              <folding>
-                <element signature="e#369#370#0" expanded="true" />
-                <element signature="e#394#395#0" expanded="true" />
-                <element signature="e#430#431#0" expanded="true" />
-                <element signature="e#463#464#0" expanded="true" />
-                <element signature="e#496#497#0" expanded="true" />
-                <element signature="e#526#527#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chap14/src/exercise/no07/LambdaExample.java">
+        <entry file="file://$PROJECT_DIR$/chap15/src/sec02/exam01/ArrayAsListExample.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="26" column="46" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
+              <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -59,8 +48,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/chap13/src/sec07/StorageImpl.java" />
-        <option value="$PROJECT_DIR$/chap13/src/sec07/Product.java" />
         <option value="$PROJECT_DIR$/chap13/src/sec07/ChildProduct.java" />
         <option value="$PROJECT_DIR$/chap13/src/sec07/ChildProductAndStorageExample.java" />
         <option value="$PROJECT_DIR$/chap13/src/exercise/no02/Container.java" />
@@ -110,6 +97,8 @@
         <option value="$PROJECT_DIR$/chap14/src/exercise/no05/LambdaExample.java" />
         <option value="$PROJECT_DIR$/chap14/src/exercise/no06/LambdaExample.java" />
         <option value="$PROJECT_DIR$/chap14/src/exercise/no07/LambdaExample.java" />
+        <option value="$PROJECT_DIR$/chap15/src/sec02/exam01/ArrayListExample.java" />
+        <option value="$PROJECT_DIR$/chap15/src/sec02/exam01/ArrayAsListExample.java" />
       </list>
     </option>
   </component>
@@ -133,44 +122,30 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="this-is-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="chap14" type="462c0819:PsiDirectoryNode" />
+              <item name="chap15" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="this-is-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="chap14" type="462c0819:PsiDirectoryNode" />
+              <item name="chap15" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="this-is-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="chap14" type="462c0819:PsiDirectoryNode" />
+              <item name="chap15" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="exercise" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="this-is-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="chap14" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="no06" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="this-is-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="chap14" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="no07" type="462c0819:PsiDirectoryNode" />
+              <item name="exam01" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -199,13 +174,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LambdaExample (3)">
-    <configuration name="ConstructorReferencesExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sec06.exam03.ConstructorReferencesExample" />
-      <module name="chap14" />
+  <component name="RunManager" selected="Application.ArrayAsListExample">
+    <configuration name="ArrayAsListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sec02.exam01.ArrayAsListExample" />
+      <module name="chap15" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sec06.exam03.*" />
+          <option name="PATTERN" value="sec02.exam01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sec02.exam01.ArrayListExample" />
+      <module name="chap15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sec02.exam01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -252,26 +240,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LambdaExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise.no04.LambdaExample" />
-      <module name="chap14" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercise.no04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayAsListExample" />
+        <item itemvalue="Application.ArrayListExample" />
         <item itemvalue="Application.LambdaExample (3)" />
         <item itemvalue="Application.LambdaExample (2)" />
         <item itemvalue="Application.LambdaExample (1)" />
-        <item itemvalue="Application.LambdaExample" />
-        <item itemvalue="Application.ConstructorReferencesExample" />
       </list>
     </recent_temporary>
   </component>
@@ -306,15 +281,15 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.5010799" side_tool="true" weight="0.18705036" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49892008" visible="true" weight="0.19977863" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49892008" visible="true" weight="0.20199226" />
       <window_info id="Structure" order="6" sideWeight="0.5010799" side_tool="true" weight="0.18705036" />
-      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.32937366" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32937366" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="2" weight="0.32937366" />
       <window_info anchor="bottom" id="Version Control" order="3" weight="0.32937366" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.32937366" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.32937366" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.39956802" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -370,36 +345,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/chap13/src/sec07/StorageImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="e#127#128#0" expanded="true" />
-            <element signature="e#167#168#0" expanded="true" />
-            <element signature="e#228#229#0" expanded="true" />
-            <element signature="e#252#253#0" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#319#320#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chap13/src/sec07/ChildProduct.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="89" selection-start-line="15" selection-start-column="89" selection-end-line="15" selection-end-column="89" />
-          <folding>
-            <element signature="e#121#122#0" expanded="true" />
-            <element signature="e#145#146#0" expanded="true" />
-            <element signature="e#184#185#0" expanded="true" />
-            <element signature="e#216#217#0" expanded="true" />
-            <element signature="e#258#259#0" expanded="true" />
-            <element signature="e#351#352#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chap13/src/sec07/ChildProductAndStorageExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -830,23 +775,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chap14/src/exercise/no06/LambdaExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
+        <state relative-caret-position="405">
           <caret line="27" column="46" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="46" />
-          <folding>
-            <element signature="e#369#370#0" expanded="true" />
-            <element signature="e#394#395#0" expanded="true" />
-            <element signature="e#430#431#0" expanded="true" />
-            <element signature="e#463#464#0" expanded="true" />
-            <element signature="e#496#497#0" expanded="true" />
-            <element signature="e#526#527#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chap14/src/exercise/no07/LambdaExample.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="47" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap15/src/sec02/exam01/ArrayListExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="39" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
+          <folding>
+            <element signature="e#156#164#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap15/src/sec02/exam01/ArrayAsListExample.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="26" column="46" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
