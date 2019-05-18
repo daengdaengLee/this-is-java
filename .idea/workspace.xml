@@ -17,22 +17,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chap15/src/sec02/exam02/Board.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chap15/src/sec02/exam02/VectorExample.java">
+        <entry file="file://$PROJECT_DIR$/chap15/src/sec02/exam03/LinkedListExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="83" selection-start-line="19" selection-start-column="83" selection-end-line="19" selection-end-column="83" />
+            <state relative-caret-position="255">
+              <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
               <folding>
-                <element signature="e#149#156#0" expanded="true" />
+                <element signature="e#158#166#0" expanded="true" />
+                <element signature="e#209#217#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -54,7 +46,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/chap13/src/exercise/no02/Container.java" />
         <option value="$PROJECT_DIR$/chap13/src/exercise/no02/ContainerExample.java" />
         <option value="$PROJECT_DIR$/chap13/src/exercise/no03/Container.java" />
         <option value="$PROJECT_DIR$/chap13/src/exercise/no03/ContainerExample.java" />
@@ -105,6 +96,7 @@
         <option value="$PROJECT_DIR$/chap15/src/sec02/exam01/ArrayAsListExample.java" />
         <option value="$PROJECT_DIR$/chap15/src/sec02/exam02/Board.java" />
         <option value="$PROJECT_DIR$/chap15/src/sec02/exam02/VectorExample.java" />
+        <option value="$PROJECT_DIR$/chap15/src/sec02/exam03/LinkedListExample.java" />
       </list>
     </option>
   </component>
@@ -153,7 +145,7 @@
               <item name="chap15" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="sec02" type="462c0819:PsiDirectoryNode" />
-              <item name="exam02" type="462c0819:PsiDirectoryNode" />
+              <item name="exam03" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -187,7 +179,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.VectorExample">
+  <component name="RunManager" selected="Application.LinkedListExample">
     <configuration name="ArrayAsListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sec02.exam01.ArrayAsListExample" />
       <module name="chap15" />
@@ -214,12 +206,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LambdaExample (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise.no06.LambdaExample" />
+    <configuration name="LambdaExample (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise.no07.LambdaExample" />
       <module name="chap14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercise.no06.*" />
+          <option name="PATTERN" value="exercise.no07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -227,12 +219,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LambdaExample (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise.no07.LambdaExample" />
-      <module name="chap14" />
+    <configuration name="LinkedListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sec02.exam03.LinkedListExample" />
+      <module name="chap15" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercise.no07.*" />
+          <option name="PATTERN" value="sec02.exam03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -255,11 +247,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LinkedListExample" />
         <item itemvalue="Application.VectorExample" />
         <item itemvalue="Application.ArrayAsListExample" />
         <item itemvalue="Application.ArrayListExample" />
         <item itemvalue="Application.LambdaExample (3)" />
-        <item itemvalue="Application.LambdaExample (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -294,15 +286,15 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.5010799" side_tool="true" weight="0.18705036" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49892008" visible="true" weight="0.20199226" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49892008" visible="true" weight="0.20199226" />
       <window_info id="Structure" order="6" sideWeight="0.5010799" side_tool="true" weight="0.18705036" />
-      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.32937366" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32937366" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="2" weight="0.32937366" />
       <window_info anchor="bottom" id="Version Control" order="3" weight="0.32937366" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.32937366" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.32937366" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.39956802" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -358,19 +350,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/chap13/src/exercise/no02/Container.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#97#98#0" expanded="true" />
-            <element signature="e#110#111#0" expanded="true" />
-            <element signature="e#143#144#0" expanded="true" />
-            <element signature="e#165#166#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chap13/src/exercise/no02/ContainerExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -796,6 +775,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/chap15/src/sec02/exam02/VectorExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="83" selection-start-line="19" selection-start-column="83" selection-end-line="19" selection-end-column="83" />
+          <folding>
+            <element signature="e#149#156#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/chap15/src/sec02/exam02/Board.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -803,12 +792,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chap15/src/sec02/exam02/VectorExample.java">
+    <entry file="file://$PROJECT_DIR$/chap15/src/sec02/exam03/LinkedListExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="83" selection-start-line="19" selection-start-column="83" selection-end-line="19" selection-end-column="83" />
+        <state relative-caret-position="255">
+          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
           <folding>
-            <element signature="e#149#156#0" expanded="true" />
+            <element signature="e#158#166#0" expanded="true" />
+            <element signature="e#209#217#0" expanded="true" />
           </folding>
         </state>
       </provider>
