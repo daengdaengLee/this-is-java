@@ -17,26 +17,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chap15/src/sec04/exam01/Student.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
-              <folding>
-                <element signature="e#440#441#0" expanded="true" />
-                <element signature="e#459#460#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chap15/src/sec04/exam01/HashMapExample2.java">
+        <entry file="file://$PROJECT_DIR$/chap15/src/sec04/exam02/HashtableExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+            <state relative-caret-position="150">
+              <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
               <folding>
-                <element signature="e#161#179#0" expanded="true" />
+                <element signature="e#162#178#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -58,7 +45,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/chap13/src/exercise/no04/UtilExample.java" />
         <option value="$PROJECT_DIR$/chap13/src/exercise/no04/Util.java" />
         <option value="$PROJECT_DIR$/chap14/src/sec03/exam02/MyFunctionalInterface.java" />
         <option value="$PROJECT_DIR$/chap14/src/sec03/exam02/MyFunctionalInterfaceExample.java" />
@@ -109,6 +95,7 @@
         <option value="$PROJECT_DIR$/chap15/src/sec04/exam01/HashMapExample1.java" />
         <option value="$PROJECT_DIR$/chap15/src/sec04/exam01/Student.java" />
         <option value="$PROJECT_DIR$/chap15/src/sec04/exam01/HashMapExample2.java" />
+        <option value="$PROJECT_DIR$/chap15/src/sec04/exam02/HashtableExample.java" />
       </list>
     </option>
   </component>
@@ -150,7 +137,14 @@
               <item name="this-is-java" type="b2602c69:ProjectViewProjectNode" />
               <item name="chap15" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="exam01" type="462c0819:PsiDirectoryNode" />
+              <item name="sec04" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="this-is-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chap15" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sec04" type="462c0819:PsiDirectoryNode" />
+              <item name="exam02" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -184,7 +178,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HashMapExample2">
+  <component name="RunManager" selected="Application.HashtableExample">
     <configuration name="HashMapExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sec04.exam01.HashMapExample1" />
       <module name="chap15" />
@@ -237,12 +231,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sec02.exam03.LinkedListExample" />
+    <configuration name="HashtableExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sec04.exam02.HashtableExample" />
       <module name="chap15" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sec02.exam03.*" />
+          <option name="PATTERN" value="sec04.exam02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -252,11 +246,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HashtableExample" />
         <item itemvalue="Application.HashMapExample2" />
         <item itemvalue="Application.HashMapExample1" />
         <item itemvalue="Application.HashSetExample2" />
         <item itemvalue="Application.HashSetExample1" />
-        <item itemvalue="Application.LinkedListExample" />
       </list>
     </recent_temporary>
   </component>
@@ -355,13 +349,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/chap13/src/exercise/no04/Util.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chap13/src/exercise/no04/UtilExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -804,6 +791,16 @@
           <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
           <folding>
             <element signature="e#161#179#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap15/src/sec04/exam02/HashtableExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+          <folding>
+            <element signature="e#162#178#0" expanded="true" />
           </folding>
         </state>
       </provider>
