@@ -18,26 +18,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chap15/src/sec06/exma01/Coin.java">
+        <entry file="file://$PROJECT_DIR$/chap15/src/sec06/exam02/Message.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
-              <folding>
-                <element signature="e#92#93#0" expanded="true" />
-                <element signature="e#120#121#0" expanded="true" />
-                <element signature="e#147#148#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="120">
+              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chap15/src/sec06/exma01/StackExample.java">
+        <entry file="file://$PROJECT_DIR$/chap15/src/sec06/exam02/QueueExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
+            <state relative-caret-position="360">
+              <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
               <folding>
-                <element signature="e#154#160#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#196#205#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -59,8 +55,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/chap14/src/sec05/exam02/SupplierExample.java" />
-        <option value="$PROJECT_DIR$/chap14/src/sec05/exam03/Student.java" />
         <option value="$PROJECT_DIR$/chap14/src/sec05/exam03/FunctionExample1.java" />
         <option value="$PROJECT_DIR$/chap14/src/sec05/exam03/FunctionExample2.java" />
         <option value="$PROJECT_DIR$/chap14/src/sec05/exam04/OperatorExample.java" />
@@ -110,6 +104,8 @@
         <option value="$PROJECT_DIR$/chap15/src/sec05/exam04/ComparatorExample.java" />
         <option value="$PROJECT_DIR$/chap15/src/sec06/exma01/Coin.java" />
         <option value="$PROJECT_DIR$/chap15/src/sec06/exma01/StackExample.java" />
+        <option value="$PROJECT_DIR$/chap15/src/sec06/exam02/Message.java" />
+        <option value="$PROJECT_DIR$/chap15/src/sec06/exam02/QueueExample.java" />
       </list>
     </option>
   </component>
@@ -149,7 +145,14 @@
               <item name="this-is-java" type="b2602c69:ProjectViewProjectNode" />
               <item name="chap15" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="exma01" type="462c0819:PsiDirectoryNode" />
+              <item name="sec06" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="this-is-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chap15" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sec06" type="462c0819:PsiDirectoryNode" />
+              <item name="exam02" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -185,7 +188,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StackExample">
+  <component name="RunManager" selected="Application.QueueExample">
     <configuration name="ComparableExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sec05.exam04.ComparableExample" />
       <module name="chap15" />
@@ -212,12 +215,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sec06.exma01.StackExample" />
+    <configuration name="QueueExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sec06.exam02.QueueExample" />
       <module name="chap15" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sec06.exma01.*" />
+          <option name="PATTERN" value="sec06.exam02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -225,12 +228,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreeMapExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sec05.exam03.TreeMapExample2" />
+    <configuration name="StackExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sec06.exam01.StackExample" />
       <module name="chap15" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sec05.exam03.*" />
+          <option name="PATTERN" value="sec06.exam01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -253,11 +256,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QueueExample" />
         <item itemvalue="Application.StackExample" />
         <item itemvalue="Application.ComparatorExample" />
         <item itemvalue="Application.ComparableExample" />
         <item itemvalue="Application.TreeMapExample3" />
-        <item itemvalue="Application.TreeMapExample2" />
       </list>
     </recent_temporary>
   </component>
@@ -356,28 +359,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/chap14/src/sec05/exam02/SupplierExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chap14/src/sec05/exam03/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="3" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
-          <folding>
-            <element signature="e#313#314#0" expanded="true" />
-            <element signature="e#334#335#0" expanded="true" />
-            <element signature="e#368#369#0" expanded="true" />
-            <element signature="e#397#398#0" expanded="true" />
-            <element signature="e#428#429#0" expanded="true" />
-            <element signature="e#454#455#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chap14/src/sec05/exam03/FunctionExample1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -825,7 +806,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chap15/src/sec06/exma01/Coin.java">
+    <entry file="file://$PROJECT_DIR$/chap15/src/sec06/exam01/Coin.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
@@ -837,12 +818,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chap15/src/sec06/exma01/StackExample.java">
+    <entry file="file://$PROJECT_DIR$/chap15/src/sec06/exam01/StackExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
           <folding>
             <element signature="e#154#160#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap15/src/sec06/exam02/Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap15/src/sec06/exam02/QueueExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#196#205#0" expanded="true" />
           </folding>
         </state>
       </provider>
