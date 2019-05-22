@@ -18,10 +18,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chap16/src/sec04/FilteringExample.java">
+        <entry file="file://$PROJECT_DIR$/chap16/src/sec05/exam01/FlatMapExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="46" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
+            <state relative-caret-position="465">
+              <caret line="31" column="23" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -45,7 +45,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/chap15/src/sec02/exam01/ArrayAsListExample.java" />
         <option value="$PROJECT_DIR$/chap15/src/sec02/exam02/Board.java" />
         <option value="$PROJECT_DIR$/chap15/src/sec02/exam02/VectorExample.java" />
         <option value="$PROJECT_DIR$/chap15/src/sec02/exam03/LinkedListExample.java" />
@@ -96,6 +95,7 @@
         <option value="$PROJECT_DIR$/chap16/src/sec03/exam01/Member.java" />
         <option value="$PROJECT_DIR$/chap16/src/sec03/exam01/StreamPipelinesExample.java" />
         <option value="$PROJECT_DIR$/chap16/src/sec04/FilteringExample.java" />
+        <option value="$PROJECT_DIR$/chap16/src/sec05/exam01/FlatMapExample.java" />
       </list>
     </option>
   </component>
@@ -135,7 +135,7 @@
               <item name="this-is-java" type="b2602c69:ProjectViewProjectNode" />
               <item name="chap16" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sec04" type="462c0819:PsiDirectoryNode" />
+              <item name="exam01" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -152,7 +152,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Colors" />
+    <property name="settings.editor.selected.configurable" value="copyright.filetypes.JAVA" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -171,13 +171,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FilteringExample">
+  <component name="RunManager" selected="Application.FlatMapExample">
     <configuration name="FilteringExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sec04.FilteringExample" />
       <module name="chap16" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="sec04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlatMapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sec05.exam01.FlatMapExample" />
+      <module name="chap16" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sec05.exam01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -211,19 +224,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FromIntRangeExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sec02.exam03.FromIntRangeExample" />
-      <module name="chap16" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sec02.exam03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="StreamPipelinesExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sec03.exam01.StreamPipelinesExample" />
       <module name="chap16" />
@@ -239,11 +239,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FlatMapExample" />
         <item itemvalue="Application.FilteringExample" />
         <item itemvalue="Application.StreamPipelinesExample" />
         <item itemvalue="Application.FromDirectoryExample" />
         <item itemvalue="Application.FromFileContentExample" />
-        <item itemvalue="Application.FromIntRangeExample" />
       </list>
     </recent_temporary>
   </component>
@@ -271,16 +271,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="2493" height="1415" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.5010799" side_tool="true" weight="0.18705036" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49892008" visible="true" weight="0.2913772" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49892008" visible="true" weight="0.2913772" />
       <window_info id="Structure" order="6" sideWeight="0.5010799" side_tool="true" weight="0.18705036" />
-      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.45800933" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.45800933" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="2" weight="0.32937366" />
       <window_info anchor="bottom" id="Version Control" order="3" weight="0.32937366" />
@@ -352,16 +351,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/chap15/src/sec02/exam02/VectorExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="83" selection-start-line="19" selection-start-column="83" selection-end-line="19" selection-end-column="83" />
-          <folding>
-            <element signature="e#149#156#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chap15/src/sec02/exam02/Board.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -834,7 +823,17 @@
     <entry file="file://$PROJECT_DIR$/chap16/src/sec04/FilteringExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="24" column="46" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
+          <caret line="24" column="45" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap16/src/sec05/exam01/FlatMapExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="23" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
