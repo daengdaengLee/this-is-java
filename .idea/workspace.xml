@@ -18,16 +18,16 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chap16/src/exercise/no07/StreamExample.java">
+        <entry file="file://$PROJECT_DIR$/chap16/src/exercise/no08/StreamExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+            <state relative-caret-position="270">
+              <caret line="18" column="79" selection-start-line="18" selection-start-column="79" selection-end-line="18" selection-end-column="79" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#360#361#0" expanded="true" />
-                <element signature="e#395#396#0" expanded="true" />
-                <element signature="e#429#430#0" expanded="true" />
-                <element signature="e#463#464#0" expanded="true" />
+                <element signature="e#340#341#0" expanded="true" />
+                <element signature="e#375#376#0" expanded="true" />
+                <element signature="e#409#410#0" expanded="true" />
+                <element signature="e#443#444#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -49,7 +49,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/chap15/src/sec06/exma01/Coin.java" />
         <option value="$PROJECT_DIR$/chap15/src/sec06/exma01/StackExample.java" />
         <option value="$PROJECT_DIR$/chap15/src/sec06/exam02/Message.java" />
         <option value="$PROJECT_DIR$/chap15/src/sec06/exam02/QueueExample.java" />
@@ -100,6 +99,7 @@
         <option value="$PROJECT_DIR$/chap16/src/exercise/no05/StreamExample.java" />
         <option value="$PROJECT_DIR$/chap16/src/exercise/no06/StreamExample.java" />
         <option value="$PROJECT_DIR$/chap16/src/exercise/no07/StreamExample.java" />
+        <option value="$PROJECT_DIR$/chap16/src/exercise/no08/StreamExample.java" />
       </list>
     </option>
   </component>
@@ -146,7 +146,7 @@
               <item name="chap16" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="no07" type="462c0819:PsiDirectoryNode" />
+              <item name="no08" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -182,22 +182,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StreamExample (2)">
+  <component name="RunManager" selected="Application.StreamExample (3)">
     <configuration name="ArrayListVsLinkedListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sec12.exam04.ArrayListVsLinkedListExample" />
-      <module name="chap16" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sec12.exam04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SequencialVsParallelExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sec12.exam04.SequencialVsParallelExample" />
       <module name="chap16" />
       <extension name="coverage">
         <pattern>
@@ -235,6 +222,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StreamExample (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise.no08.StreamExample" />
+      <module name="chap16" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise.no08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StreamExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercise.no05.StreamExample" />
       <module name="chap16" />
@@ -250,11 +250,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StreamExample (3)" />
         <item itemvalue="Application.StreamExample (2)" />
         <item itemvalue="Application.StreamExample (1)" />
         <item itemvalue="Application.StreamExample" />
         <item itemvalue="Application.ArrayListVsLinkedListExample" />
-        <item itemvalue="Application.SequencialVsParallelExample" />
       </list>
     </recent_temporary>
   </component>
@@ -284,21 +284,21 @@
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49892008" visible="true" weight="0.1953514" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49892008" visible="true" weight="0.1953514" />
       <window_info id="Structure" order="1" sideWeight="0.5010799" side_tool="true" weight="0.18705036" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Favorites" order="5" sideWeight="0.5010799" side_tool="true" weight="0.18705036" />
       <window_info id="Image Layers" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.28185746" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.28185746" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="2" weight="0.32937366" />
       <window_info anchor="bottom" id="Version Control" order="3" weight="0.32937366" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.32937366" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32937366" />
-      <window_info anchor="bottom" id="Run" order="7" weight="0.3261339" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.3261339" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.39848813" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
@@ -363,19 +363,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/chap15/src/exercise/no07/Board.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="19" />
-          <folding>
-            <element signature="e#229#230#0" expanded="true" />
-            <element signature="e#251#252#0" expanded="true" />
-            <element signature="e#283#284#0" expanded="true" />
-            <element signature="e#307#308#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chap15/src/exercise/no07/BoardDao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -843,7 +830,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chap16/src/exercise/no07/StreamExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
+        <state relative-caret-position="300">
           <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -851,6 +838,20 @@
             <element signature="e#395#396#0" expanded="true" />
             <element signature="e#429#430#0" expanded="true" />
             <element signature="e#463#464#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap16/src/exercise/no08/StreamExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="79" selection-start-line="18" selection-start-column="79" selection-end-line="18" selection-end-column="79" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#340#341#0" expanded="true" />
+            <element signature="e#375#376#0" expanded="true" />
+            <element signature="e#409#410#0" expanded="true" />
+            <element signature="e#443#444#0" expanded="true" />
           </folding>
         </state>
       </provider>
