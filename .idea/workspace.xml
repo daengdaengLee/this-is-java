@@ -18,10 +18,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chap16/src/sec11/exam03/GroupingByExample.java">
+        <entry file="file://$PROJECT_DIR$/chap16/src/sec11/exam04/GroupingAndReductionExample.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="583">
-              <caret line="50" column="59" selection-start-line="50" selection-start-column="59" selection-end-line="50" selection-end-column="59" />
+              <caret line="43" column="71" selection-start-line="43" selection-start-column="71" selection-end-line="43" selection-end-column="71" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -45,7 +45,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/chap15/src/sec05/exam03/TreeMapExample2.java" />
         <option value="$PROJECT_DIR$/chap15/src/sec05/exam03/TreeMapExample3.java" />
         <option value="$PROJECT_DIR$/chap15/src/sec05/exam04/Person.java" />
         <option value="$PROJECT_DIR$/chap15/src/sec05/exam04/ComparableExample.java" />
@@ -96,6 +95,7 @@
         <option value="$PROJECT_DIR$/chap16/src/sec11/exam02/MaleStudent.java" />
         <option value="$PROJECT_DIR$/chap16/src/sec11/exam02/MaleStudentExample.java" />
         <option value="$PROJECT_DIR$/chap16/src/sec11/exam03/GroupingByExample.java" />
+        <option value="$PROJECT_DIR$/chap16/src/sec11/exam04/GroupingAndReductionExample.java" />
       </list>
     </option>
   </component>
@@ -142,7 +142,7 @@
               <item name="chap16" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="sec11" type="462c0819:PsiDirectoryNode" />
-              <item name="exam03" type="462c0819:PsiDirectoryNode" />
+              <item name="exam04" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -178,7 +178,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GroupingByExample">
+  <component name="RunManager" selected="Application.GroupingAndReductionExample">
+    <configuration name="GroupingAndReductionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sec11.exam04.GroupingAndReductionExample" />
+      <module name="chap16" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sec11.exam04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GroupingByExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sec11.exam03.GroupingByExample" />
       <module name="chap16" />
@@ -198,19 +211,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="sec11.exam02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OptionalExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sec09.exam02.OptionalExample" />
-      <module name="chap16" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sec09.exam02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -246,11 +246,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GroupingAndReductionExample" />
         <item itemvalue="Application.GroupingByExample" />
         <item itemvalue="Application.MaleStudentExample" />
         <item itemvalue="Application.ToListExample" />
         <item itemvalue="Application.ReductionExample" />
-        <item itemvalue="Application.OptionalExample" />
       </list>
     </recent_temporary>
   </component>
@@ -359,13 +359,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/chap15/src/sec05/exam04/Fruit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chap15/src/sec05/exam04/DescendingComparator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -832,8 +825,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chap16/src/sec11/exam03/GroupingByExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="583">
+        <state relative-caret-position="478">
           <caret line="50" column="59" selection-start-line="50" selection-start-column="59" selection-end-line="50" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap16/src/sec11/exam04/GroupingAndReductionExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="583">
+          <caret line="43" column="71" selection-start-line="43" selection-start-column="71" selection-end-line="43" selection-end-column="71" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
