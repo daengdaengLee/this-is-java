@@ -17,32 +17,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chap16/src/sec11/exam01/ToListExample.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chap16/src/sec11/exam02/MaleStudent.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="33" column="44" selection-start-line="33" selection-start-column="44" selection-end-line="33" selection-end-column="44" />
+            <state relative-caret-position="315">
+              <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#702#703#0" expanded="true" />
+                <element signature="e#729#730#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chap16/src/sec11/exam01/Student.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chap16/src/sec11/exam02/MaleStudentExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="478">
-              <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="20" />
+            <state relative-caret-position="195">
+              <caret line="13" column="57" selection-start-line="13" selection-start-column="57" selection-end-line="13" selection-end-column="57" />
               <folding>
-                <element signature="e#555#556#0" expanded="true" />
-                <element signature="e#582#583#0" expanded="true" />
-                <element signature="e#611#612#0" expanded="true" />
-                <element signature="e#639#640#0" expanded="true" />
-                <element signature="e#666#667#0" expanded="true" />
-                <element signature="e#692#693#0" expanded="true" />
-                <element signature="e#721#722#0" expanded="true" />
-                <element signature="e#748#749#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -64,8 +59,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/chap15/src/sec05/exam02/TreeSetExample2.java" />
-        <option value="$PROJECT_DIR$/chap15/src/sec05/exam02/TreeSetExample3.java" />
         <option value="$PROJECT_DIR$/chap15/src/sec05/exam03/TreeMapExample1.java" />
         <option value="$PROJECT_DIR$/chap15/src/sec05/exam03/TreeMapExample2.java" />
         <option value="$PROJECT_DIR$/chap15/src/sec05/exam03/TreeMapExample3.java" />
@@ -115,6 +108,8 @@
         <option value="$PROJECT_DIR$/chap16/src/sec10/ReductionExample.java" />
         <option value="$PROJECT_DIR$/chap16/src/sec11/exam01/Student.java" />
         <option value="$PROJECT_DIR$/chap16/src/sec11/exam01/ToListExample.java" />
+        <option value="$PROJECT_DIR$/chap16/src/sec11/exam02/MaleStudent.java" />
+        <option value="$PROJECT_DIR$/chap16/src/sec11/exam02/MaleStudentExample.java" />
       </list>
     </option>
   </component>
@@ -154,7 +149,14 @@
               <item name="this-is-java" type="b2602c69:ProjectViewProjectNode" />
               <item name="chap16" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="exam01" type="462c0819:PsiDirectoryNode" />
+              <item name="sec11" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="this-is-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chap16" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sec11" type="462c0819:PsiDirectoryNode" />
+              <item name="exam02" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -190,7 +192,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ToListExample">
+  <component name="RunManager" selected="Application.MaleStudentExample">
     <configuration name="AggregateExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sec09.exam01.AggregateExample" />
       <module name="chap16" />
@@ -204,12 +206,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MatchExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sec08.MatchExample" />
+    <configuration name="MaleStudentExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sec11.exam02.MaleStudentExample" />
       <module name="chap16" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sec08.*" />
+          <option name="PATTERN" value="sec11.exam02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -258,11 +260,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaleStudentExample" />
         <item itemvalue="Application.ToListExample" />
         <item itemvalue="Application.ReductionExample" />
         <item itemvalue="Application.OptionalExample" />
         <item itemvalue="Application.AggregateExample" />
-        <item itemvalue="Application.MatchExample" />
       </list>
     </recent_temporary>
   </component>
@@ -301,12 +303,12 @@
       <window_info id="Image Layers" order="6" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.28185746" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="2" weight="0.32937366" />
+      <window_info active="true" anchor="bottom" id="Messages" order="2" visible="true" weight="0.32937366" />
       <window_info anchor="bottom" id="Version Control" order="3" weight="0.32937366" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.32937366" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32937366" />
-      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.3261339" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.3261339" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.39891136" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
@@ -371,28 +373,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/chap15/src/sec05/exam03/TreeMapExample2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#174#191#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chap15/src/sec05/exam03/TreeMapExample3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="71" selection-start-line="21" selection-start-column="71" selection-end-line="21" selection-end-column="71" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#174#191#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chap15/src/sec05/exam04/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -845,8 +825,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chap16/src/sec11/exam01/ToListExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
+        <state relative-caret-position="495">
           <caret line="33" column="44" selection-start-line="33" selection-start-column="44" selection-end-line="33" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap16/src/sec11/exam02/MaleStudent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#702#703#0" expanded="true" />
+            <element signature="e#729#730#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap16/src/sec11/exam02/MaleStudentExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="57" selection-start-line="13" selection-start-column="57" selection-end-line="13" selection-end-column="57" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
