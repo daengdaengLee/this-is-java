@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/sec02/exam02/AppMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -62,14 +65,14 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/sec02/exam01/AppMain.java">
+        <entry file="file://$PROJECT_DIR$/src/sec02/exam02/AppMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+            <state relative-caret-position="420">
+              <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#287#288#0" expanded="true" />
-                <element signature="e#311#312#0" expanded="true" />
+                <element signature="e#127#128#0" expanded="true" />
+                <element signature="e#163#164#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -98,18 +101,11 @@
         <option value="$PROJECT_DIR$/src/sec02/exam01/AppMain/js.java" />
         <option value="$PROJECT_DIR$/src/sec02/exam01/AppMain/AppMain.java" />
         <option value="$PROJECT_DIR$/src/sec02/exam01/AppMain.java" />
+        <option value="$PROJECT_DIR$/src/sec02/exam02/AppMain.java" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/artifacts/JavaFXApp.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/lib.xml" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="293" />
     <option name="y" value="53" />
@@ -143,7 +139,14 @@
               <item name="chap17" type="b2602c69:ProjectViewProjectNode" />
               <item name="chap17" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="exam01" type="462c0819:PsiDirectoryNode" />
+              <item name="sec02" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chap17" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chap17" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sec02" type="462c0819:PsiDirectoryNode" />
+              <item name="exam02" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -160,6 +163,7 @@
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="OverrideImplement.combined" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dynamic.classpath" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/libs/javafx-sdk-12.0.1/lib" />
@@ -180,7 +184,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AppMain (1)">
+  <component name="RunManager" selected="Application.AppMain (2)">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -206,6 +210,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="sec02.exam01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppMain (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sec02.exam02.AppMain" />
+      <module name="chap17" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sec02.exam02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -284,9 +302,11 @@
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.AppMain" />
       <item itemvalue="Application.AppMain (1)" />
+      <item itemvalue="Application.AppMain (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AppMain (2)" />
         <item itemvalue="Application.AppMain (1)" />
         <item itemvalue="Application.AppMain" />
       </list>
@@ -320,10 +340,10 @@
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.21914776" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32937366" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32937366" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32937366" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -402,6 +422,18 @@
             <element signature="imports" expanded="true" />
             <element signature="e#287#288#0" expanded="true" />
             <element signature="e#311#312#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sec02/exam02/AppMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#127#128#0" expanded="true" />
+            <element signature="e#163#164#0" expanded="true" />
           </folding>
         </state>
       </provider>
